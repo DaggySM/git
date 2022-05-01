@@ -3,4 +3,5 @@
 /*  git config --local user.name "Daggy"  задаем локально имя (global на все проекты)
   mac$ git config --local user.email Daggy.od@gmail.com тоже что имя почту
   git status проверяем статус 
-  git add -A добавляем все файлы */
+  git add -A добавляем все файлы 
+  git add main.css  добавляем новый файл*/
