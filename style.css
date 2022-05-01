@@ -5,4 +5,5 @@
   git status проверяем статус 
   git add -A добавляем все файлы 
   git add main.css  добавляем новый файл
-  git commit -a -m"socond"*/
+  git commit -a -m"socond" создаем коммит к которому можно возвращаться
+  git log посмотреть логи коммитов*/
